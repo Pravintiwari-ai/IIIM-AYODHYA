@@ -1,0 +1,22 @@
+.headline {
+  background-color: rgb(2, 100, 213);
+  color: white;
+}
+.navbc {
+  background-color: rgb(2, 100, 213);
+}
+.new1 {
+  border-left: 8px solid royalblue;
+  padding-left: 10px;
+}
+.new2 {
+  border-left: 7px solid white;
+  padding-left: 10px;
+}
+.ach {
+  background-color: aliceblue;
+}
+.new3 {
+  border-left: 10px solid white;
+  padding-left: 10px;
+}
